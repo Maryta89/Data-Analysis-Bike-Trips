@@ -21,7 +21,7 @@ A Python project to analyze and visualize bike trips data, generating an informa
 
 Here’s a preview of the generated dashboard:
 
-![Dashboard](bike_data_dashboard.png)
+![Dashboard](bike_data_dashboard.jpg)
 
 *The dashboard includes trip duration & distance distributions, top stations, and daily trips.*
 
